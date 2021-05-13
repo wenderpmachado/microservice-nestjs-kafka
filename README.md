@@ -1,5 +1,5 @@
 <h1 align="center">
-  NestJS + Kafka
+  <img src="./.github/nestjs.svg" width="50">NestJS + Kafka<img src="./.github/kafka.png" width="50">
 </h1>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
