@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   NestJS + Kafka
-</p>
+</h1>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
